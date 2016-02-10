@@ -1,0 +1,5 @@
+.idea
+node_modules
+dist
+old_dist
+npm-debug.log
